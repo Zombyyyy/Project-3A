@@ -9,7 +9,7 @@ Done just needs to be put in
 ## GUI Mockup #3:Game Over
 ![](game_over.ong.png)
 ## Class Diagram #1
-WIP
+(calvin)
 
 
 # Project-3A-Proposal 2: Honeycomb Breakout
@@ -18,8 +18,9 @@ WIP
 
 ## GUI Mockup #1: Title
 ![](hon.png)
-## GUI Mockup #2
-
-## GUI Mockup #3
-
+## GUI Mockup #2: Gameplay
+(isabelle)
+## GUI Mockup #3: Game Over
+(sawyer)
 ## Class Diagram #1
+(sawyer or isabelle decide if you want)
