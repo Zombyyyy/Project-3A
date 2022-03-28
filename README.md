@@ -5,11 +5,11 @@
 ## GUI Mockup #1: Title Page
 ![](Bonle.png)
 ## GUI Mockup #2:Gameplay
-Done just needs to be put in
+![](Screen Shot 2022-03-23 at 12.13.43 PM.png)
 ## GUI Mockup #3:Game Over
 ![](game_over.ong.png)
 ## Class Diagram #1
-(calvin)
+![](bonle.drawio.png)
 
 
 # Project-3A-Proposal 2: Honeycomb Breakout
@@ -19,8 +19,8 @@ Done just needs to be put in
 ## GUI Mockup #1: Title
 ![](hon.png)
 ## GUI Mockup #2: Gameplay
-(isabelle)
+![](Screen Shot 2022-03-28 at 11.45.31 AM.png)
 ## GUI Mockup #3: Game Over
-(sawyer)
+![](HonGameOver.png)
 ## Class Diagram #1
 (sawyer or isabelle decide if you want)
