@@ -5,7 +5,7 @@
 ## GUI Mockup #1: Title Page
 ![](Bonle.png)
 ## GUI Mockup #2:Gameplay
-![](Screen Shot 2022-03-23 at 12.13.43 PM.png)
+![](Bone.png)
 ## GUI Mockup #3:Game Over
 ![](game_over.ong.png)
 ## Class Diagram #1
@@ -19,7 +19,7 @@
 ## GUI Mockup #1: Title
 ![](hon.png)
 ## GUI Mockup #2: Gameplay
-![](Screen Shot 2022-03-28 at 11.45.31 AM.png)
+![](AAAAAAAAAAa.png)
 ## GUI Mockup #3: Game Over
 ![](HonGameOver.png)
 ## Class Diagram #1
