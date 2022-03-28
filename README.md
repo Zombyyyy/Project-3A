@@ -17,7 +17,7 @@ WIP
   made out of hexagons that the player will use to finish the level.
 
 ## GUI Mockup #1: Title
-![](New Piskel (1).png)
+![](hon.png)
 ## GUI Mockup #2
 
 ## GUI Mockup #3
