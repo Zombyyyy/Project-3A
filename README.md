@@ -1,6 +1,5 @@
 # Project-3A-Proposal 1: Bonle
-  For this project we are looking at making a game similar to the wordle knock-off "globle game", but instead of the countries on earth its bones in the human body.
-  You will be able to guess different bones and they will light up based on how close they are to the target bone
+  For this project we are looking at making a game similar to the wordle knock-off "globle game", but instead of the countries on earth its bones in the human body. This game is 3d and will be made using the game engine Unity. The game is singleplayer with different difficulties the user gets to choose from. The aim of the game is to guess a random target bone out of a selection of bones(specific to difficulty) by looking at the rest of the bones. When you guess a wrong bone, it will light up a color from white to red, with the closest bones being more red and the farthest being more white.
 
 ## GUI Mockup #1: Title Page
 ![](Bonle.png)
