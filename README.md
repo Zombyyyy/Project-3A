@@ -23,4 +23,4 @@
 ## GUI Mockup #3: Game Over
 ![](HonGameOver.png)
 ## Class Diagram #1
-![image](https://user-images.githubusercontent.com/62191514/160894768-89203202-bfe2-4f1c-88d6-1e394555ed79.png)
+![image](https://user-images.githubusercontent.com/62191514/160895370-5e6f3041-b2b2-40fa-97f0-ce69ca50f329.png)
